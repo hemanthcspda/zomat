@@ -1,2 +1,2 @@
-# zomat
-zomat online Food Delivery Application.
+# zomato
+zomato online Food Delivery Application.
